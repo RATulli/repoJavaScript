@@ -1,0 +1,28 @@
+body {
+    background-color: #efefef;
+}
+
+.caja{
+    margin: 8px;
+    padding: 8px;
+    /* border-style: Solid dotted dashed; */
+    border-style: solid; 
+    border-width: 2px;
+    border-color: blue;
+    /* border-left
+    border-top
+    */
+    border-left: 8px solid #afa;
+    border-radius:  8px; /* redondea bordes */ 
+    background-color: #aaf;
+    height: 100px; 
+    width: 100px;
+    color: #575;
+}
+/* todos los elementos en CSS los pensamos como si fueran una caja. 
+  toda caja tiene un margen exterior que se modifica con margin. En este caso, margen exterior es body.
+  Padding el contenido de la caja lo separa de los bordes de la pantalla. 
+  Border genera una separacion entre margen y padding
+  border-style, el estilo. 
+  */
+

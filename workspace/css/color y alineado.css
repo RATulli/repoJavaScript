@@ -1,0 +1,35 @@
+body{
+    background-color: #eee;
+}
+
+p{
+    color: #2222ff;
+    /* se recomienda siempre colores en hexa */
+    text-align: left; 
+    /* center right, left, justify  propiedad por defecto left*/
+    text-indent: 40px; /* justifica a la derecha */
+
+    line-height: 1.7; /* lineas, un alto de 1.7 */
+    word-spacing: 10px;
+    text-shadow: 5px 2px 2px rgba(0,0,0,0.3);   /* agrega sombras al texto 1ro cuanto se desplaza a la derecha, y la segunda 
+                     cuanto hacia abajo, y el tercero es cuan difumidado esta 
+                     en el cuarto valor de rgba, cuanto intensidad de color, los primeros 3 el color
+                     en cuestion*/
+
+    }
+
+a{
+    text-decoration: none;
+    /* puede tener none, overline, line-though, underline 
+       Se puede usar para links pero tambien sirve para textos. 
+    */
+    text-transform: capitalize;
+    /*  puede tener tambien lowercase, capitalize (la primera con mayuscula) 
+        permite solo estos 3 valores. 
+     */ 
+    letter-spacing: 3px ;
+      /*  espacio entre letras 
+     */ 
+    
+
+}

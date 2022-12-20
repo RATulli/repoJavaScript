@@ -1,0 +1,59 @@
+body {
+    background-color: #efefef;
+}
+
+.cabecera{ 
+   margin: 8px;
+   border-style: solid;
+   border-width: 1px;
+   border-radius: 4px;
+   background-color: white;
+   height: 100px;
+}
+
+p{ 
+    margin: 8px;
+}
+
+.footer{
+    padding: 10px;
+    background-color: white;
+}
+
+.Aceptar{
+    background-color: rgb(0, 162, 250);
+    padding: 5px;
+    border: 0px;
+    color: white;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+
+.botonAceptar{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(0, 162, 250);
+    color: white;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+
+.Cancelar{
+    padding: 5px;
+    background-color: grey;
+    color:white;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.botonCancelar{
+    padding: 10px;
+    background-color: grey;
+    border: 0px; 
+    color:white;
+    border-style: solid;
+    border-radius: 8px;
+}
+

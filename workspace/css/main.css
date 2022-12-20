@@ -1,0 +1,19 @@
+body {
+    background-color: #efefef;
+    color: byte;
+}
+
+#pruebacolor{ 
+   background-color: rgb(69, 161, 92);
+   color: red;
+}
+
+#parrafo{ 
+  color: #ff0000;
+}
+
+.etiqueta{
+   color: white;
+}
+
+
